@@ -35,7 +35,7 @@
     "babel-loader": "^8.2.5",
     "eslint": "^8.24.0",
     "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-react": "^7.31.9",
+    "eslint-plugin-react": "^7.31.10",
     "eslint-plugin-react-prefer-function-component": "^3.0.0",
     "eslint-plugin-storybook": "^0.6.4",
     "husky": "^8.0.1",
