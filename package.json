@@ -44,7 +44,7 @@
     "storybook-addon-performance": "^0.16.1",
     "storybook-dark-mode": "^1.1.2",
     "stylelint": "^14.15.0",
-    "stylelint-config-prettier": "^9.0.3",
+    "stylelint-config-prettier": "^9.0.4",
     "stylelint-config-standard": "^29.0.0",
     "typescript": "^4.9.3",
     "vite": "^3.2.3"
