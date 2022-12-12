@@ -5976,10 +5976,10 @@ eslint-config-prettier@^8.5.0:
   resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-8.5.0.tgz#5a81680ec934beca02c7b1a61cf8ca34b66feab1"
   integrity sha512-obmWKLUNCnhtQRKc+tmnYuQl0pFU1ibYJQ5BGhTVB08bHe9wC8qUeG7c08dj9XX+AuPj1YSGSQIHl1pnDHZR0Q==
 
-eslint-plugin-react-prefer-function-component@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-react-prefer-function-component/-/eslint-plugin-react-prefer-function-component-3.0.0.tgz#5bbb52b371644b344153fdbaf89d94af3310f0d7"
-  integrity sha512-3sVu9h5rUEHHvCxK0oJ4nnMvy9GGW+jPTNhhaUwRuFLN1YVffzKPOQPmjj56KUllbHZymenymN+QkzCVbyOPtQ==
+eslint-plugin-react-prefer-function-component@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-react-prefer-function-component/-/eslint-plugin-react-prefer-function-component-3.1.0.tgz#eb4c7ee1e8cad6279b8e943dab04f9a5f9c190b0"
+  integrity sha512-A80QdKaMKC5Prq6Od37rieOy9HutgKQhe7+mmRgoMVvEqMJtvCxk10QOlyujjaX+xGSA4ma8R+4QOQQIeTmPAA==
 
 eslint-plugin-react@^7.31.11:
   version "7.31.11"
