@@ -1906,7 +1906,7 @@
     regenerator-runtime "^0.13.7"
     ts-dedent "^2.0.0"
 
-"@storybook/addon-toolbars@6.5.13", "@storybook/addon-toolbars@^6.5.9":
+"@storybook/addon-toolbars@6.5.13":
   version "6.5.13"
   resolved "https://registry.yarnpkg.com/@storybook/addon-toolbars/-/addon-toolbars-6.5.13.tgz#0e67552786f08a6c0a443eaaef21ee565acca839"
   integrity sha512-Qgr4wKRSP+gY1VaN7PYT4TM1um7KY341X3GHTglXLFHd8nDsCweawfV2shaX3WxCfZmVro8g4G+Oest30kLLCw==
@@ -1916,6 +1916,19 @@
     "@storybook/client-logger" "6.5.13"
     "@storybook/components" "6.5.13"
     "@storybook/theming" "6.5.13"
+    core-js "^3.8.2"
+    regenerator-runtime "^0.13.7"
+
+"@storybook/addon-toolbars@^6.5.14":
+  version "6.5.14"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-toolbars/-/addon-toolbars-6.5.14.tgz#200bb8cfc771bb8d14c61d7810b02765a473458e"
+  integrity sha512-BZGQ9YadVRtSd5mpmrwnJta0wK1leX/vgziJX4gUKX2A5JX7VWsiswUGVukLVtE9Oa1jp3fJXE3O5Ip9moj0Ag==
+  dependencies:
+    "@storybook/addons" "6.5.14"
+    "@storybook/api" "6.5.14"
+    "@storybook/client-logger" "6.5.14"
+    "@storybook/components" "6.5.14"
+    "@storybook/theming" "6.5.14"
     core-js "^3.8.2"
     regenerator-runtime "^0.13.7"
 
@@ -2010,7 +2023,7 @@
     ts-dedent "^2.0.0"
     util-deprecate "^1.0.2"
 
-"@storybook/api@6.5.13", "@storybook/api@^6.0.0", "@storybook/api@^6.2.9":
+"@storybook/api@6.5.13":
   version "6.5.13"
   resolved "https://registry.yarnpkg.com/@storybook/api/-/api-6.5.13.tgz#8671e580721ff68d209fcde2975f967ae79b7d64"
   integrity sha512-xVSmB7/IuFd6G7eiJjbI2MuS7SZunoUM6d+YCWpjiehfMeX47MXt1gZtOwFrgJC1ShZlefXFahq/dvxwtmWs+w==
@@ -2033,7 +2046,7 @@
     ts-dedent "^2.0.0"
     util-deprecate "^1.0.2"
 
-"@storybook/api@6.5.14":
+"@storybook/api@6.5.14", "@storybook/api@^6.0.0", "@storybook/api@^6.2.9":
   version "6.5.14"
   resolved "https://registry.yarnpkg.com/@storybook/api/-/api-6.5.14.tgz#e0caaee2d8634857ac428acc93db62aba744c1c1"
   integrity sha512-RpgEWV4mxD1mNsGWkjSNq3+B/LFNIhXZc4OapEEK5u0jgCZKB7OCsRL9NJZB5WfpyN+vx8SwbUTgo8DIkes3qw==
@@ -2296,7 +2309,7 @@
     ts-dedent "^2.0.0"
     util-deprecate "^1.0.2"
 
-"@storybook/components@6.5.13", "@storybook/components@^6.0.0", "@storybook/components@^6.2.9":
+"@storybook/components@6.5.13":
   version "6.5.13"
   resolved "https://registry.yarnpkg.com/@storybook/components/-/components-6.5.13.tgz#a05fc969458760b348d640f26c2cad310ab35030"
   integrity sha512-6Hhx70JK5pGfKCkqMU4yq/BBH+vRTmzj7tZKfPwba+f8VmTMoOr/2ysTQFRtXryiHB6Z15xBYgfq5x2pIwQzLQ==
@@ -2304,6 +2317,20 @@
     "@storybook/client-logger" "6.5.13"
     "@storybook/csf" "0.0.2--canary.4566f4d.1"
     "@storybook/theming" "6.5.13"
+    core-js "^3.8.2"
+    memoizerific "^1.11.3"
+    qs "^6.10.0"
+    regenerator-runtime "^0.13.7"
+    util-deprecate "^1.0.2"
+
+"@storybook/components@6.5.14", "@storybook/components@^6.0.0", "@storybook/components@^6.2.9":
+  version "6.5.14"
+  resolved "https://registry.yarnpkg.com/@storybook/components/-/components-6.5.14.tgz#e4d35b689674a16d88d0d16f50319865387497dd"
+  integrity sha512-wqB9CF3sjxtgffnDW1G/W5SsKumsFQ0ftn/3PdrsvKULu5LM5bjNEqC2cTCWrk9vQhj+EVQxzdVM/BlPl/lSwg==
+  dependencies:
+    "@storybook/client-logger" "6.5.14"
+    "@storybook/csf" "0.0.2--canary.4566f4d.1"
+    "@storybook/theming" "6.5.14"
     core-js "^3.8.2"
     memoizerific "^1.11.3"
     qs "^6.10.0"
@@ -2919,7 +2946,7 @@
     resolve-from "^5.0.0"
     ts-dedent "^2.0.0"
 
-"@storybook/theming@6.5.13", "@storybook/theming@^6.0.0", "@storybook/theming@^6.2.9":
+"@storybook/theming@6.5.13":
   version "6.5.13"
   resolved "https://registry.yarnpkg.com/@storybook/theming/-/theming-6.5.13.tgz#3f905eb9f72ddc28d096384290999057987f3083"
   integrity sha512-oif5NGFAUQhizo50r+ctw2hZNLWV4dPHai+L/gFvbaSeRBeHSNkIcMoZ2FlrO566HdGZTDutYXcR+xus8rI28g==
@@ -2929,7 +2956,7 @@
     memoizerific "^1.11.3"
     regenerator-runtime "^0.13.7"
 
-"@storybook/theming@6.5.14":
+"@storybook/theming@6.5.14", "@storybook/theming@^6.0.0", "@storybook/theming@^6.2.9":
   version "6.5.14"
   resolved "https://registry.yarnpkg.com/@storybook/theming/-/theming-6.5.14.tgz#4cc7e568b9641112f35abe0606cc6925952cb647"
   integrity sha512-3ff6RLZGaIil/AFJ0/BRlE2hhdPrC5v6wGbRfroZVmGldRCxio/7+KAA3LH6cuHnjK5MeBcCBaHuxzXqGmbEFw==
