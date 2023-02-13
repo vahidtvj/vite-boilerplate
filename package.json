@@ -40,7 +40,7 @@
     "eslint-plugin-storybook": "^0.6.10",
     "husky": "^8.0.3",
     "lint-staged": "^13.1.0",
-    "prettier": "2.8.3",
+    "prettier": "2.8.4",
     "storybook-addon-performance": "^0.16.1",
     "storybook-dark-mode": "^2.0.5",
     "stylelint": "^14.16.1",
