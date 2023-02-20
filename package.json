@@ -27,7 +27,7 @@
     "@storybook/builder-vite": "^0.2.7",
     "@storybook/react": "^6.4.22",
     "@storybook/testing-library": "^0.0.13",
-    "@types/react": "^18.0.27",
+    "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.10",
     "@typescript-eslint/eslint-plugin": "^5.52.0",
     "@typescript-eslint/parser": "^5.51.0",
