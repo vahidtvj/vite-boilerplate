@@ -22,7 +22,7 @@
     "@storybook/addon-actions": "^7.0.5",
     "@storybook/addon-essentials": "^7.0.5",
     "@storybook/addon-interactions": "^6.5.16",
-    "@storybook/addon-links": "^7.0.5",
+    "@storybook/addon-links": "^7.0.6",
     "@storybook/addon-toolbars": "^6.5.16",
     "@storybook/builder-vite": "^7.0.5",
     "@storybook/react": "^6.4.22",
