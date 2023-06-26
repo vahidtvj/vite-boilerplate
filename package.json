@@ -43,7 +43,7 @@
     "prettier": "2.8.8",
     "storybook-addon-performance": "^0.17.1",
     "storybook-dark-mode": "^3.0.0",
-    "stylelint": "^15.7.0",
+    "stylelint": "^15.9.0",
     "stylelint-config-prettier": "^9.0.4",
     "stylelint-config-standard": "^33.0.0",
     "typescript": "^5.1.3",
