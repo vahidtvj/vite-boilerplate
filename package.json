@@ -42,7 +42,7 @@
     "lint-staged": "^13.2.2",
     "prettier": "3.0.0",
     "storybook-addon-performance": "^0.17.1",
-    "storybook-dark-mode": "^3.0.0",
+    "storybook-dark-mode": "^3.0.1",
     "stylelint": "^15.10.1",
     "stylelint-config-prettier": "^9.0.4",
     "stylelint-config-standard": "^34.0.0",
