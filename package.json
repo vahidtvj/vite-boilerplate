@@ -39,7 +39,7 @@
     "eslint-plugin-react-prefer-function-component": "^3.1.0",
     "eslint-plugin-storybook": "^0.6.12",
     "husky": "^8.0.3",
-    "lint-staged": "^13.2.2",
+    "lint-staged": "^13.2.3",
     "prettier": "3.0.0",
     "storybook-addon-performance": "^0.17.1",
     "storybook-dark-mode": "^3.0.0",
