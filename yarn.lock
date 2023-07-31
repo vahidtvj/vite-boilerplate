@@ -1780,7 +1780,7 @@
     "@storybook/global" "^5.0.0"
     memoizerific "^1.11.3"
 
-"@storybook/theming@7.0.27", "@storybook/theming@^7.0.0", "@storybook/theming@^7.0.0-beta.12":
+"@storybook/theming@7.0.27":
   version "7.0.27"
   resolved "https://registry.yarnpkg.com/@storybook/theming/-/theming-7.0.27.tgz#62d6f4af8e8e2089c0b84e4d47a1a4ec3ba06fb3"
   integrity sha512-l2Lc8xX8QXQO8c9gpzdUUJ+0YqLoh8w74I7lzxiife0TzEQrhWD9aRJAVimm8Vzfq5x3CNeJNFHc5PcG8ypQig==
@@ -1800,7 +1800,7 @@
     "@storybook/global" "^5.0.0"
     memoizerific "^1.11.3"
 
-"@storybook/theming@7.1.0":
+"@storybook/theming@7.1.0", "@storybook/theming@^7.0.0", "@storybook/theming@^7.0.0-beta.12":
   version "7.1.0"
   resolved "https://registry.yarnpkg.com/@storybook/theming/-/theming-7.1.0.tgz#44839745ac2684cf38407b68251efe33b49b770e"
   integrity sha512-bO56c7NFlK7sfjsCbV56VLU59HHvQTW/HVu8RxUuoY+0WutyGAq6uZCmtQnMMGORzxh0p/uU2dSBVYEfW8QoTQ==
@@ -5667,10 +5667,10 @@ storybook-addon-performance@^0.17.1:
     "@xstate/react" "^3.0.1"
     xstate "^4.35.0"
 
-storybook-dark-mode@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/storybook-dark-mode/-/storybook-dark-mode-3.0.0.tgz#4c9d59de28c84a0c159ddc3d18e4e8e33db779a9"
-  integrity sha512-aeAvqP/mmdccEiCsvx6aw3M0i7mZSiXROsrAsEQN8vl1lAg3FZN+y3Xu/f+ye59wLMRuKJC/JBp7E3/H7vLBRQ==
+storybook-dark-mode@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/storybook-dark-mode/-/storybook-dark-mode-3.0.1.tgz#b79e8809fc89da9c06edb5d2d20cba163c256adc"
+  integrity sha512-3V6XBhkUq63BF6KzyDBbfV5/8sYtF4UtVccH1tK+Lrd4p0tF8k7yHOvVDhFL9hexnKXcLEnbC+42YDTPvjpK+A==
   dependencies:
     "@storybook/addons" "^7.0.0"
     "@storybook/api" "^7.0.0"
