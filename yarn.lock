@@ -1068,19 +1068,19 @@
     polished "^4.2.2"
     ts-dedent "^2.2.0"
 
-"@storybook/addon-links@^7.5.1":
-  version "7.5.1"
-  resolved "https://registry.yarnpkg.com/@storybook/addon-links/-/addon-links-7.5.1.tgz#18404cc71d3ceaf5f9e2ce4501a275be11bf6eaa"
-  integrity sha512-KDiQYAVNXxuVTB3QLFZxHlfT8q4KnlNKY+0OODvgD5o1FqFpIyUiR5mIBL4SZMRj2EtwrR3KmZ2UPccFZdu9vw==
+"@storybook/addon-links@^7.5.2":
+  version "7.5.2"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-links/-/addon-links-7.5.2.tgz#4b1747f70ca284faafe69aed8db15504079a8bbe"
+  integrity sha512-IhUYNOJQYJd8Cnb93l8egnGCGhHV0VHo6HmZT9YjBVuUtetGQbW8Eoh0pQwuklUrJ3jLPwMoKFhN1irQXJjZwQ==
   dependencies:
-    "@storybook/client-logger" "7.5.1"
-    "@storybook/core-events" "7.5.1"
+    "@storybook/client-logger" "7.5.2"
+    "@storybook/core-events" "7.5.2"
     "@storybook/csf" "^0.1.0"
     "@storybook/global" "^5.0.0"
-    "@storybook/manager-api" "7.5.1"
-    "@storybook/preview-api" "7.5.1"
-    "@storybook/router" "7.5.1"
-    "@storybook/types" "7.5.1"
+    "@storybook/manager-api" "7.5.2"
+    "@storybook/preview-api" "7.5.2"
+    "@storybook/router" "7.5.2"
+    "@storybook/types" "7.5.2"
     prop-types "^15.7.2"
     ts-dedent "^2.0.0"
 
@@ -1382,14 +1382,14 @@
   resolved "https://registry.yarnpkg.com/@storybook/core-events/-/core-events-7.0.9.tgz#4aa5913cfa3ccb40b83bf4ffbb6ef832aa8f5402"
   integrity sha512-xJiyX7Gq/TgDdBv+8KbfTJ4Sc7fCMeIEUqWTtnYCHWB7Mp6Iui37+caDX3aGQRTz7FVgb7aL5QkQES9Ihc1+dg==
 
-"@storybook/core-events@7.5.1", "@storybook/core-events@^7.0.0":
+"@storybook/core-events@7.5.1":
   version "7.5.1"
   resolved "https://registry.yarnpkg.com/@storybook/core-events/-/core-events-7.5.1.tgz#a6bf057e4605fb8360c76d28a3c36daa676a81a4"
   integrity sha512-2eyaUhTfmEEqOEZVoCXVITCBn6N7QuZCG2UNxv0l//ED+7MuMiFhVw7kS7H3WOVk65R7gb8qbKFTNX8HFTgBHg==
   dependencies:
     ts-dedent "^2.0.0"
 
-"@storybook/core-events@7.5.2":
+"@storybook/core-events@7.5.2", "@storybook/core-events@^7.0.0":
   version "7.5.2"
   resolved "https://registry.yarnpkg.com/@storybook/core-events/-/core-events-7.5.2.tgz#e5185e39fdcb7ab93510f6174798d5f242e1041b"
   integrity sha512-DV8bFEFVKDEvaH87KYPXDE0YEV+Y9yjFv2xxmC9pF8l+MWCtVW72RBLhB+gU5NM1bkHrRDNb0lOJfVGKlhxOog==
