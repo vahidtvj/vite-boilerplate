@@ -38,7 +38,7 @@
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-prefer-function-component": "^3.3.0",
     "eslint-plugin-storybook": "^0.6.15",
-    "husky": "^9.0.6",
+    "husky": "^9.0.10",
     "lint-staged": "^15.2.0",
     "prettier": "3.2.4",
     "storybook-addon-performance": "^0.17.3",
