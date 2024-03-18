@@ -1392,19 +1392,20 @@
     ts-dedent "^2.0.0"
     util-deprecate "^1.0.2"
 
-"@storybook/builder-vite@^7.6.17":
-  version "7.6.17"
-  resolved "https://registry.yarnpkg.com/@storybook/builder-vite/-/builder-vite-7.6.17.tgz#e6492fdde60b9d2e40e7ae0b18cae1bf362f28a3"
-  integrity sha512-2Q32qalI401EsKKr9Hkk8TAOcHEerqwsjCpQgTNJnCu6GgCVKoVUcb99oRbR9Vyg0xh+jb19XiWqqQujFtLYlQ==
+"@storybook/builder-vite@^8.0.0":
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/@storybook/builder-vite/-/builder-vite-8.0.0.tgz#4494b1d99197899f4d0a56101d7057fe824c8918"
+  integrity sha512-dJhd8QwQDELwStbM1P6LEXjFHVbhMM4jH5L+UkDDrS42m2YTvizdGhyRvEJajLz1Ar7o4++p2hBBA/dU9NXfJQ==
   dependencies:
-    "@storybook/channels" "7.6.17"
-    "@storybook/client-logger" "7.6.17"
-    "@storybook/core-common" "7.6.17"
-    "@storybook/csf-plugin" "7.6.17"
-    "@storybook/node-logger" "7.6.17"
-    "@storybook/preview" "7.6.17"
-    "@storybook/preview-api" "7.6.17"
-    "@storybook/types" "7.6.17"
+    "@storybook/channels" "8.0.0"
+    "@storybook/client-logger" "8.0.0"
+    "@storybook/core-common" "8.0.0"
+    "@storybook/core-events" "8.0.0"
+    "@storybook/csf-plugin" "8.0.0"
+    "@storybook/node-logger" "8.0.0"
+    "@storybook/preview" "8.0.0"
+    "@storybook/preview-api" "8.0.0"
+    "@storybook/types" "8.0.0"
     "@types/find-cache-dir" "^3.2.1"
     browser-assert "^1.2.1"
     es-module-lexer "^0.9.3"
@@ -1412,7 +1413,7 @@
     find-cache-dir "^3.0.0"
     fs-extra "^11.1.0"
     magic-string "^0.30.0"
-    rollup "^2.25.0 || ^3.3.0"
+    ts-dedent "^2.0.0"
 
 "@storybook/channel-postmessage@7.0.9":
   version "7.0.9"
@@ -1608,7 +1609,7 @@
   dependencies:
     ts-dedent "^2.0.0"
 
-"@storybook/core-events@7.6.17":
+"@storybook/core-events@7.6.17", "@storybook/core-events@^7.0.0":
   version "7.6.17"
   resolved "https://registry.yarnpkg.com/@storybook/core-events/-/core-events-7.6.17.tgz#9e1a795558193089fb227cfe2cf768c99418a640"
   integrity sha512-AriWMCm/k1cxlv10f+jZ1wavThTRpLaN3kY019kHWbYT9XgaSuLU67G7GPr3cGnJ6HuA6uhbzu8qtqVCd6OfXA==
@@ -1622,19 +1623,20 @@
   dependencies:
     ts-dedent "^2.0.0"
 
-"@storybook/core-events@^7.0.0":
-  version "7.6.14"
-  resolved "https://registry.yarnpkg.com/@storybook/core-events/-/core-events-7.6.14.tgz#4ba595ea6df1bd760e8ed5c9ec8a39a722e09339"
-  integrity sha512-zuSMjOgju7WLFL+okTXVvOKKNzwqVGRVp5UhXeSikT4aXuVdpfepCfikkjntn12G1ybL7mfFCsBU2DV1lwwp6Q==
-  dependencies:
-    ts-dedent "^2.0.0"
-
 "@storybook/csf-plugin@7.6.17":
   version "7.6.17"
   resolved "https://registry.yarnpkg.com/@storybook/csf-plugin/-/csf-plugin-7.6.17.tgz#6acf738b62e14a74a90ef68d7567e2fc1d1bd68f"
   integrity sha512-xTHv9BUh3bkDVCvcbmdfVF0/e96BdrEgqPJ3G3RmKbSzWLOkQ2U9yiPfHzT0KJWPhVwj12fjfZp0zunu+pcS6Q==
   dependencies:
     "@storybook/csf-tools" "7.6.17"
+    unplugin "^1.3.1"
+
+"@storybook/csf-plugin@8.0.0":
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/@storybook/csf-plugin/-/csf-plugin-8.0.0.tgz#833b6cb00e50a727c85bafb5944c99938b049ec8"
+  integrity sha512-bCX3XvZ8X1dS08ung0IhugtTUOK+rWwRjWjyj5WC7fl5HYyFYQ91MC2f8EccYQaDYl9Dfvo1cw685gnk6PoLbw==
+  dependencies:
+    "@storybook/csf-tools" "8.0.0"
     unplugin "^1.3.1"
 
 "@storybook/csf-tools@7.6.17":
@@ -1834,10 +1836,10 @@
     ts-dedent "^2.0.0"
     util-deprecate "^1.0.2"
 
-"@storybook/preview@7.6.17":
-  version "7.6.17"
-  resolved "https://registry.yarnpkg.com/@storybook/preview/-/preview-7.6.17.tgz#e0c9727c7cfbd8f1d504848a57acaab8e54abe90"
-  integrity sha512-LvkMYK/y6alGjwRVNDIKL1lFlbyZ0H0c8iAbcQkiMoaFiujMQyVswMDKlWcj42Upfr/B1igydiruomc+eUt0mw==
+"@storybook/preview@8.0.0":
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/@storybook/preview/-/preview-8.0.0.tgz#5de15b6b3010b273d9efe9d2cdb7f3008ae93e6e"
+  integrity sha512-cFV7+6LYe1qr1HXm+oc74Z6ygAKgkjkhfGsfDhdS+UrzoFL9JF/+++RcE+xSBNVfzZjL19U1CsPEN0v0smIbkQ==
 
 "@storybook/react-dom-shim@7.6.17":
   version "7.6.17"
@@ -6080,13 +6082,6 @@ rimraf@^3.0.2:
   integrity sha512-JZkJMZkAGFFPP2YqXZXPbMlMBgsxzE8ILs4lMIX/2o0L9UBw9O/Y3o6wFw/i9YLapcUJWwqbi3kdxIPdC62TIA==
   dependencies:
     glob "^7.1.3"
-
-"rollup@^2.25.0 || ^3.3.0":
-  version "3.28.0"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-3.28.0.tgz#a3c70004b01934760c0cb8df717c7a1d932389a2"
-  integrity sha512-d7zhvo1OUY2SXSM6pfNjgD5+d0Nz87CUp4mt8l/GgVP3oBsPwzNvSzyu1me6BSG9JIgWNTVcafIXBIyM8yQ3yw==
-  optionalDependencies:
-    fsevents "~2.3.2"
 
 rollup@^4.2.0:
   version "4.6.0"
