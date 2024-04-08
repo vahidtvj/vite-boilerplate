@@ -663,12 +663,12 @@
     polished "^4.2.2"
     uuid "^9.0.0"
 
-"@storybook/addon-actions@^7.6.14":
-  version "7.6.17"
-  resolved "https://registry.yarnpkg.com/@storybook/addon-actions/-/addon-actions-7.6.17.tgz#b1be5ab28b22b4a50c6aa0cd0a3671ca5b6f5f71"
-  integrity sha512-TBphs4v6LRfyTpFo/WINF0TkMaE3rrNog7wW5mbz6n0j8o53kDN4o9ZEcygSL5zQX43CAaghQTeDCss7ueG7ZQ==
+"@storybook/addon-actions@^8.0.6":
+  version "8.0.6"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-actions/-/addon-actions-8.0.6.tgz#48eec5280f983ad39612e7a0e78430ad5c18ef2c"
+  integrity sha512-3R/d2Td6+yeR+UnyCAeZ4tuiRGSm+6gKUQP9vB1bvEFQGuFBrV+zs3eakcYegOqZu3IXuejgaB0Knq987gUL5A==
   dependencies:
-    "@storybook/core-events" "7.6.17"
+    "@storybook/core-events" "8.0.6"
     "@storybook/global" "^5.0.0"
     "@types/uuid" "^9.0.1"
     dequal "^2.0.2"
