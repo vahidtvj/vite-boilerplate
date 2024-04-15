@@ -21,7 +21,7 @@
     "@babel/core": "^7.24.4",
     "@storybook/addon-actions": "^8.0.6",
     "@storybook/addon-essentials": "^8.0.4",
-    "@storybook/addon-interactions": "^8.0.5",
+    "@storybook/addon-interactions": "^8.0.8",
     "@storybook/addon-links": "^8.0.6",
     "@storybook/addon-toolbars": "^8.0.5",
     "@storybook/builder-vite": "^8.0.5",
