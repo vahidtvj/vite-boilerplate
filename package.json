@@ -25,7 +25,7 @@
     "@storybook/addon-links": "^8.0.8",
     "@storybook/addon-toolbars": "^8.0.5",
     "@storybook/builder-vite": "^8.0.8",
-    "@storybook/react": "^8.0.8",
+    "@storybook/react": "^8.0.9",
     "@storybook/testing-library": "^0.2.2",
     "@types/react": "^18.2.79",
     "@types/react-dom": "^18.2.25",
