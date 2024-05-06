@@ -771,10 +771,15 @@
     "@storybook/global" "^5.0.0"
     ts-dedent "^2.0.0"
 
-"@storybook/addon-toolbars@8.0.8", "@storybook/addon-toolbars@^8.0.5":
+"@storybook/addon-toolbars@8.0.8":
   version "8.0.8"
   resolved "https://registry.yarnpkg.com/@storybook/addon-toolbars/-/addon-toolbars-8.0.8.tgz#64d54974941633aef1814d557275127de1a7da9d"
   integrity sha512-PZxlK+/Fwk2xcrpr5kkXYjCbBaEjAWcEHWq7mhQReMFaAs5AJE8dvmeQ7rmPDOHnlg4+YsARDFKz5FJtthRIgg==
+
+"@storybook/addon-toolbars@^8.0.10":
+  version "8.0.10"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-toolbars/-/addon-toolbars-8.0.10.tgz#753c7d3895ad84d8589fbf7c29baaf64249688b7"
+  integrity sha512-67HP6mTJU/gjRju01Z5HjeqoRiJMDlrMvMvjGBg7w5+tPNtjYqdelfe2+kcfU+Hf6dfcuqaBDwaUUGSv+RYtRQ==
 
 "@storybook/addon-viewport@8.0.8":
   version "8.0.8"
