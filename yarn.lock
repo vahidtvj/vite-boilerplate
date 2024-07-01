@@ -1006,10 +1006,15 @@
     "@storybook/global" "^5.0.0"
     ts-dedent "^2.0.0"
 
-"@storybook/addon-toolbars@8.1.10", "@storybook/addon-toolbars@^8.1.6":
+"@storybook/addon-toolbars@8.1.10":
   version "8.1.10"
   resolved "https://registry.yarnpkg.com/@storybook/addon-toolbars/-/addon-toolbars-8.1.10.tgz#11d8ea78d940dff26d62fc9c817ffdf8a8ae03ec"
   integrity sha512-5bRcCWrhaTX5Y91EWmHilPZ7kZaneaY414Gn5a6gsaNgaVPkSx9KD9j8M9DyXJ4yQNs265TiPWQqWrPB3Q2VgA==
+
+"@storybook/addon-toolbars@^8.1.11":
+  version "8.1.11"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-toolbars/-/addon-toolbars-8.1.11.tgz#176a9b12880b5919e7ab12c448f32fe561feeaa7"
+  integrity sha512-reIKB0+JTiP+GNzynlDcRf4xmv9+j/DQ94qiXl2ZG5+ufKilH8DiRZpVA/i0x+4+TxdGdOJr1/pOf8tAmhNEoQ==
 
 "@storybook/addon-viewport@8.1.10":
   version "8.1.10"
@@ -1382,20 +1387,6 @@
     doctrine "^3.0.0"
     lodash "^4.17.21"
 
-"@storybook/docs-tools@8.1.9":
-  version "8.1.9"
-  resolved "https://registry.yarnpkg.com/@storybook/docs-tools/-/docs-tools-8.1.9.tgz#a657c233d928bb58c5bf73f05627c627d4ae0512"
-  integrity sha512-ZGtlldQARXG+v8KtNq5dxtAfPLsaLFuV4gJQ4MHXcspQSKtQ6fq5k2IkxhKhDg4EEQ/lhSl8vUxws+W79xWbbg==
-  dependencies:
-    "@storybook/core-common" "8.1.9"
-    "@storybook/core-events" "8.1.9"
-    "@storybook/preview-api" "8.1.9"
-    "@storybook/types" "8.1.9"
-    "@types/doctrine" "^0.0.3"
-    assert "^2.1.0"
-    doctrine "^3.0.0"
-    lodash "^4.17.21"
-
 "@storybook/global@^5.0.0":
   version "5.0.0"
   resolved "https://registry.yarnpkg.com/@storybook/global/-/global-5.0.0.tgz#b793d34b94f572c1d7d9e0f44fac4e0dbc9572ed"
@@ -1539,11 +1530,6 @@
   version "8.1.10"
   resolved "https://registry.yarnpkg.com/@storybook/react-dom-shim/-/react-dom-shim-8.1.10.tgz#c4c8cb47827185e240972358f38081290cecb8b8"
   integrity sha512-+HS75Pq8jb3xkVq0hK33D84aGfbJCURRB+GN2vfTMmmjguQt7z2+MnGqRgrUCt6h2rxU3VdPg9OBnYi/UC0Zrg==
-
-"@storybook/react-dom-shim@8.1.9":
-  version "8.1.9"
-  resolved "https://registry.yarnpkg.com/@storybook/react-dom-shim/-/react-dom-shim-8.1.9.tgz#c93ab656568171b2c5e4d5f139ce3397b2ba1bee"
-  integrity sha512-nRpw1SxkSCf8+MrsgL37lpihcr0fwtG0tHShW6F2+Lrx0nlzaOTH/VOvAwZJLNYpqddqln6vQ6Yk7Wxvw2IIkw==
 
 "@storybook/react@^8.1.10":
   version "8.1.10"
