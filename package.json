@@ -8,6 +8,7 @@
 		"build": "tsc -b && vite build",
 		"lint": "biome lint --write .",
 		"format": "biome format --write .",
+		"ts:check": "tsc --noEmit -p ./tsconfig.json",
 		"preview": "vite preview"
 	},
 	"dependencies": {
