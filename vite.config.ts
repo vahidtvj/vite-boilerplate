@@ -16,6 +16,7 @@ export default defineConfig(({ mode }) => {
 			react(),
 			VitePWA({
 				registerType: "autoUpdate",
+				includeAssets: ["./*.svg", "./assets/*"],
 			}),
 		],
 		preview: {
