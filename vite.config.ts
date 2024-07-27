@@ -10,7 +10,9 @@ export default defineConfig(({ mode }) => {
 	const env = loadEnv(mode, process.cwd(), "")
 	const useHttps =
 		env.USE_HTTPS && env.USE_HTTPS === "true" && env.CERT_FILE && env.KEY_FILE
+	const baseURL = env.BASE_URL || "/"
 	return {
+		base: baseURL,
 		plugins: [
 			TanStackRouterVite(),
 			react(),

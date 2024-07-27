@@ -1,7 +1,6 @@
 # vite-boilerplate
 
-> A minimal project template for react
-
+> A minimal project template for react. [Demo](https://vahidtvj.github.io/vite-boilerplate/)
 ## Features
 
 - [TypeScript](https://www.typescriptlang.org/)
